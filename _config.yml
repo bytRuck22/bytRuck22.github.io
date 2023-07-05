@@ -1,6 +1,5 @@
 lsi: false
 safe: true
-source: /home/vincent/Documents/NSI/cours_github/bytRuck22.github.io
 incremental: false
 highlighter: rouge
 gist:
